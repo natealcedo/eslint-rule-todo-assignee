@@ -1,7 +1,7 @@
 {
   "name": "eslint-rule-todo-assignee",
   "version": "1.0.0",
-  "description": "",
+  "description": "Eslint rule to enforce someone to be named",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
